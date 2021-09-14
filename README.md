@@ -1,7 +1,5 @@
 # VolumetricStreaming
-Voxel Streaming for ARENA
-
-Following previous 3D capture projects:
+Voxel Streaming for ARENA, leveraging previous 3D capture projects:
 
 https://github.com/conix-center/posefusion
 
